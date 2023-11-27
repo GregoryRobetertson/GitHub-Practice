@@ -6,6 +6,8 @@
 
 
 
- How do local and remote repositories differ, and why is synchronization between them essential when working with Git? Provide a clear understanding of these two aspects of Git.
+ How do local and remote repositories differ, and why is synchronization between them essential when working with Git? 
+ 
+ Provide a clear understanding of these two aspects of Git.
 
- How do local and remote repositories differ, and why is synchronization between them essential when working with Git? Provide a clear understanding of these two aspects of Git.
+ [Link to Git Cheatsheet]()
